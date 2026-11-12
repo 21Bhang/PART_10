@@ -2,6 +2,20 @@
 
 A React Native Expo application for managing software repositories and user reviews.
 
+## 🚀 Try the App with Expo Go
+
+Scan this QR code with the Expo Go app to test the application:
+
+![QR Code](./assets/qr-code-screenshot.png)
+
+**Note**: You'll need to:
+1. Install [Expo Go](https://expo.dev/client) on your device
+2. Scan the QR code above
+3. The app will load with the production backend
+
+### Testing Credentials
+You can create a new account or use existing test credentials from the backend.
+
 ## Overview
 
 The Rate Repository App allows users to:
